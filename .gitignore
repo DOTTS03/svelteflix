@@ -10,8 +10,8 @@ vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .prettierignore
 .prettierrc
-pnpm-loc.yaml
+pnpm-lock.yaml
 .eslintignore
 .eslintrc.cjs
-.netlify.toml
+netlify.toml
 .npmrc
